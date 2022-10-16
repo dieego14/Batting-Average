@@ -13,4 +13,4 @@
 ## Output ##
 > This program should output:
 >
-> The names, hits, at bats, and batting average for each player formatted unto a table with title and column headings
+> The names, hits, at bats, and batting average for each player formatted unto a table with a title and column headings
